@@ -6,7 +6,7 @@ npm install -g markdownlint-cli
 
 echo "================= markdownlint-cli lint check ===================="
 
-find . -name \*.md  -exec markdownlint {} \; 2 > msg.log
+find . -name \*.md  -exec markdownlint {} \; 2>msg.log
 
 echo "=================================================================="
 
