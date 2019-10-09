@@ -1,5 +1,5 @@
 # md-lint
-markdown lint with [markdownlint-clie](https://github.com/igorshubovych/markdownlint-cli)
+markdown lint with [markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli)
 
 ## how to use
 
