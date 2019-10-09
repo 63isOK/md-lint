@@ -1,0 +1,9 @@
+name: 'md file lint'
+description: 'md lint with markdownlint'
+author: '63isOK'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: check
+  color: red
